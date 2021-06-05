@@ -1,4 +1,4 @@
 # Virtual-Banking
 
-#Installing the Styled Components
+# Installing the Styled Components
 npm install --save styled-components
