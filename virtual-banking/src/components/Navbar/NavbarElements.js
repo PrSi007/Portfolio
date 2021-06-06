@@ -5,7 +5,7 @@ import {Link as LinkS} from 'react-scroll'
 export const Nav = styled.nav`
  background: #000;
  height: 80px;
- /*margin-top: -80px;*/
+ */margin-top: -80px;*/
  display: flex;
  justify-content: center;
  font-size: 1rem;
@@ -50,7 +50,7 @@ export const MobileIcon = styled.div`
      transform: translate(-100%, 60%);
      font-size: 1.8rem;
      cursor: pointer;
-     color:# fff;
+     color: #fff;
  }
 `
 
@@ -61,7 +61,7 @@ export const NavMenu = styled.ul`
  text-align: center;
  margin-right: -22px;
 
- @media screen and(max-width: 768px) {
+ @media screen and (max-width: 768px) {
      display: none;
  }
 `
