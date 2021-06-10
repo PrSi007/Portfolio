@@ -1,6 +1,4 @@
 {
-  "homepage": "https://PrSi007.github.io/Virtual-Banking",
-  "name": "virtual-banking",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +15,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
