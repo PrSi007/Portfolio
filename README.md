@@ -4,7 +4,7 @@ Virtual-Banking
 
 ## Purpose
 
- A static website built for practise using style components .
+ A static website built for practice using style components .
 
 ## Have a Look 
 
