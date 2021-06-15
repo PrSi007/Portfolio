@@ -6,6 +6,10 @@ Virtual-Banking
 
  A static website built for practise using style components .
 
+## Have a Look 
+
+https://virt-bank.netlify.app/
+
 
 ## What's Inside
 
@@ -14,11 +18,6 @@ Virtual-Banking
 <img src="./images/ss3.png" />
 <img src="./images/ss3.png" />
 <img src="./images/ss4.png" />
-
-## Have a Look 
-
-https://virt-bank.netlify.app/
-
 
 ## Credits 
 
