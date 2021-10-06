@@ -45,7 +45,7 @@ const Navbar = ({ toggle }) => {
                             </NavItem>
                         </NavMenu>
                         <NavBtn>
-                            <NavBtnLink to="/signin">Resume</NavBtnLink>
+                            <NavBtnLink to="/" onClick={toggleHome}>👆🏻</NavBtnLink>
                         </NavBtn>
                     </NavbarContainer>
                 </Nav>
