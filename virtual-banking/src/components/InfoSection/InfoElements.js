@@ -63,22 +63,10 @@ export const TopLine = styled.p`
  margin-bottom: 16px;
 `;
 
-export const Heading = styled.h1`
- margin-bottom: 24px;
- font-size: 48px;
- line-height: 1.1;
- font-weight: 600;
- color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#010606')};
-
- @media screen and (max-width: 480px) {
-     font-size: 32px;
- }
-`;
-
 export const Subtitle = styled.p`
- max-width: 440px;
+ max-width: 500px;
  margin-bottom: 35px;
- font-size: 18px;
+ font-size: 18.5px;
  line-height: 24px;
  color: ${({darkText}) => (darkText ? '#010606' : '#fff')};
 

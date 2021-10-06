@@ -1,16 +1,15 @@
-import image1 from '../../images/svg-1.svg'
-import image2 from '../../images/svg-2.svg'
-import image3 from '../../images/svg-3.svg'
+import image1 from '../../images/education.svg'
+import image2 from '../../images/internship.svg'
 
 export const homeObjOne = {
   id: 'about',
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Premium Bank',
-  headLine: 'Unlimited Transactions with zero fees',
-  description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
-  buttonLabel: 'Get started',
+  topLine: 'Education',
+  description1: 'Currently persuing Btech in Computer Science and Engineering from SRM IST (Current CGPA - 9.86)',
+  description2: 'Higher Secondary School - Hartmann College    (Class  10th- 94.4%              Class  12th - 93.75%)',
+  buttonLabel: '👨‍🎓',
   imgStart: false,
   img: image1,
   alt: 'Car',
@@ -24,30 +23,13 @@ export const homeObjTwo = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Unlimited Access',
-    headLine: 'Login to your account at any time',
-    description: 'We have you covered no matter where you are located, All you need is an internet connection and a phone or computer.',
-    buttonLabel: 'Learn More',
+    topLine: 'Internships',
+    description1: 'Front End Developer - The Experitos Studio ... (May 2021-July 2021)',
+    description2: 'Full Stack Developer - Eamvey (July 2021-Present)',
+    buttonLabel: '💻',
     imgStart: true,
     img: image2,
     alt: 'Piggybank',
-    dark: false,
-    primary: false,
-    darkText: true 
-  };
-
-  export const homeObjThree = {
-    id: 'signup',
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
-    topLine: 'Join Our Team',
-    headLine: 'Creating an account is extremely easy',
-    description: "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-    buttonLabel: 'Start Now',
-    imgStart: false,
-    img: image3,
-    alt: 'Paper',
     dark: false,
     primary: false,
     darkText: true 
