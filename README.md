@@ -1,25 +1,5 @@
 # Title
 
-Virtual-Banking
+Portfolio
 
-## Purpose
-
- A static website built for practice using style components .
-
-## Have a Look 
-
-https://virt-bank.netlify.app/
-
-
-## What's Inside
-
-<img src="./images/ss1.png" />
-<img src="./images/ss2.png" />
-<img src="./images/ss3.png" />
-<img src="./images/ss4.png" />
-<img src="./images/ss5.png" />
-
-## Credits 
-
-  1. Net Ninja
-  2. Brian Design
+### A living and changing collection of records that reflects my accomplishments, skills, experiences, and attributes. It highlights and showcases samples of some of your best work, along with life experiences, values and achievements. 
